@@ -4,7 +4,7 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 
 If you need support I now have a public [Discord server](https://discord.com/invite/hGHnfda)
 
-You can support me on [Buy me a coffee](https://buymeacoffee.com/holostrawberry)
+You can support me on [Buy me a coffee](https://buymeacoffee.com/Bercraft)
 
 | |🇬🇧 English|🇪🇸 Spanish|
 |:--|:-:|:-:|
